@@ -1,0 +1,5 @@
+hostname: inventoryhostname 
+mem: memory_in_MB
+biso: BIOS_version 
+asize: disk_vda_size 
+bsize: disk_vdb_size
